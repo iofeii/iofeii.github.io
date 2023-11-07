@@ -1,26 +1,22 @@
 body {
+  background:#ffb3b3;
   background:#dafbe1;
   font-family:Arial, Helvetica, sans-serif;
 }
 
 h1{
+  color:#62994a;
   color:#1b1f24;
   text-align:center
 }
-a{
-  text-decoration: none;
-  color: #0c0229;
-}
-}
+
 .assign{
   display: flex;
   padding: 10px;
   margin: 10px;
   background:#e6ddd6;
 }
-.assign img{
+.assign img {
   width: 200px;
-  margin: 10px;
-  border: 2px solid #ffffff;
+  padding: 10px;
 }
-  
