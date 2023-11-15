@@ -6,7 +6,10 @@ body {
 
 h1{
   color:#62994a;
-  color:#1b1f24;
+  text-align:center
+}
+h1:hover {
+  color:#FFFFFF;
   text-align:center
 }
 a{
@@ -17,10 +20,11 @@ a{
   display: flex;
   padding: 10px;
   margin: 10px;
-  background:#e6ddd6;
   border-radius: 20px;
+  background-color:#e6ddd6;
 }
 .assign img {
-  padding: 10px;
+  width: 200px;
+  margin: 10px;
   border: 2px solid midnightblue;
 }
